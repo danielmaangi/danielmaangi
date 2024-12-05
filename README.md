@@ -1,6 +1,6 @@
 # Daniel Maangi
 
-🌟 **Data Scientist & Engineer** | **Analytics, AI, and DevOps**
+🌟 **Data Scientist & Engineer** | **Analytics, and AI**
 
 ---
 
