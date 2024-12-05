@@ -14,20 +14,20 @@ I am passionate about democratizing data analytics and empowering organizations 
 
 ### 🛠️ Tools & Technologies I Use
 
-- **Operating Systems:** Ubuntu, WSL (Windows Subsystem for Linux)
+- **Operating Systems:** Windows, Ubuntu, WSL (Windows Subsystem for Linux)
 - **Data Science & AI:** Python, R, SQL, TensorFlow, PyTorch
 - **Web Development:** Django, Flask, React, NodeJS, HTML, CSS, TailwindCSS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps & Cloud:** Docker, Kubernetes, AWS (Lightsail, S3), GitHub Actions
-- **Visualization Tools:** Power BI, ggplot2, Matplotlib, D3.js
+- **Visualization Tools:** Power BI, R Shiny, ggplot2, Matplotlib, D3.js
 - **Other Tools:** Databricks, Apache Kafka, DHIS2
 
 ---
 
 ### 📈 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielmaangi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmaangi&layout=compact&theme=radical)
 
 ---
 
@@ -35,8 +35,8 @@ I am passionate about democratizing data analytics and empowering organizations 
 
 - **GitHub:** [Daniel Maangi](https://github.com/your-username)
 - **LinkedIn:** [Daniel Maangi](https://www.linkedin.com/in/your-link)
-- **Twitter:** [@SparkDI](https://twitter.com/SparkDI)
-- **Portfolio:** [Statbricks](https://statbricks.com)
+- **X:** [@danielmaangi](https://x.com/danielmaangi)
+- **Portfolio:** [danielmaangi.com](https://danielmaangi.com)
 
 ---
 
